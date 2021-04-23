@@ -16,7 +16,8 @@ module.exports = class HeyCory extends Plugin {
       "https://cdn.discordapp.com/attachments/702226739107201025/834873665236893726/tumblr_plwi0oGEx11sonipe_1280.jpg",
       "https://cdn.discordapp.com/attachments/702226739107201025/834868640750895174/Cory_On_The_Phone.png",
       "https://cdn.discordapp.com/attachments/702226739107201025/834866806463660092/unknown.png",
-      "https://cdn.discordapp.com/attachments/702226739107201025/834865974246768650/image0.jpg"
+      "https://cdn.discordapp.com/attachments/702226739107201025/834865974246768650/image0.jpg",
+      "https://media.discordapp.net/attachments/729199384901713970/835035296520732702/SmartSelect_20210422-135514_Chrome.jpg"
 	];
   }
 
